@@ -136,11 +136,7 @@ const styles = StyleSheet.create({
         backgroundColor: "#2a2a2a",
         borderRadius: RFValue(20)
     },
-    postCardLight: {
-        margin: RFValue(20),
-        backgroundColor: "#eaeaea",
-        borderRadius: RFValue(20)
-    },
+    
     actionContainer: {
         justifyContent: "center",
         alignItems: "center",
@@ -185,10 +181,7 @@ const styles = StyleSheet.create({
         color: "white",
         fontSize: RFValue(20)
     },
-    authorNameTextLight: {
-        color: "black",
-        fontSize: RFValue(20)
-    },
+   
     postImage: {
         width: "100%",
         alignSelf: "center",
@@ -205,9 +198,5 @@ const styles = StyleSheet.create({
         color: "white",
         paddingTop: RFValue(10)
     },
-    captionTextLight: {
-        fontSize: 13,
-        color: "black",
-        paddingTop: RFValue(10)
-    },
+   
 });
